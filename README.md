@@ -9,4 +9,4 @@ Converts temperatures from Celsius to Fahrenheit and from Fahrenheit to Celsius.
 Displays the converted temperature in real-time as you type.
 
 ## How to Use To use the Temperature Converter app, 
-simply enter the temperature you want to convert into the input field. Then select the unit you want to convert from (Celsius or Fahrenheit) and the unit you want to convert to (Fahrenheit or Celsius). The converted temperature will be displayed in real-time as you type.
+Simply enter the temperature you want to convert into the input field. Then select the unit you want to convert from (Celsius or Fahrenheit) and the unit you want to convert to (Fahrenheit or Celsius). The converted temperature will be displayed in real-time as you type.
