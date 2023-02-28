@@ -1,10 +1,9 @@
-# TemperatureConverter
 # Temperature Converter App 
 
 This is a simple Android app that converts temperatures from Celsius to Fahrenheit and from Fahrenheit to Celsius. The app is designed to be easy to use and intuitive, making it a useful tool for anyone who needs to convert temperatures quickly and accurately. This application was made for my academic.
 
 ## Features 
-## The Temperature Converter app has the following features:
+The Temperature Converter app has the following features:
 
 Converts temperatures from Celsius to Fahrenheit and from Fahrenheit to Celsius. 
 Displays the converted temperature in real-time as you type.
