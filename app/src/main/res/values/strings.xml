@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Temperature Converter</string>
+    <string name="inpHint">Input Temperature Here</string>
+    <string name="Cel">Celcius</string>
+    <string name="Faran">Fahrenheit</string>
+    <string name="btn">CALCULATE</string>
+    <string name="ans">Answer</string>
+</resources>
